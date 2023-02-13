@@ -11,7 +11,7 @@ require_once ("operation.php");
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Fins Cabin</title>
+    <title>Data Cloud Portal</title>
 
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
@@ -26,8 +26,8 @@ require_once ("operation.php");
     <div class="container text-center">
          <!--Navigation -->
      <div style="margin: 30px; margin-top: 50px;">  <center> 
-      <h1 >   Fins Cabin Workshop </h1> 
-      <h3> Event Driven Architecture in Financial Services <h3> 
+ <h1 >   Data Cloud Portal </h1> 
+      <h3> A Financial Services Portal Hosted on Heroku  <h3> 
       <img src="wide-characters.jpg"> 
       </div>  </center>
      <center> <div style="margin: 30px; margin-top: 20px;"> 
