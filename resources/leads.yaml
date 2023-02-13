@@ -1,0 +1,27 @@
+openapi: 3.0.3
+components:
+  schemas:
+    afinsleadstream:
+      type: object
+      properties:
+        email:
+          type: string
+        last_name:
+          type: string
+        id:
+          type: number
+        first_name:
+          type: string
+        deviceId: 
+          type: string
+        eventId:
+          type: string
+        eventType:
+          type: string
+        category:
+          type: string
+        sessionId:
+          type: string
+        dateTimefield:
+          type: DateTime<'Y-m-d H:i:s'>
+          
