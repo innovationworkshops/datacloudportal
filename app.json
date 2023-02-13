@@ -1,5 +1,5 @@
 {
-  "name": "Data Cloud Portal",
+  "name": "Data Cloud Demo Portal",
   "description": "A PHP MySQL CRUD application on Heroku.",
   "repository": "https://github.com/lightningexperience/finscabin",
   "logo": "",
