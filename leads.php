@@ -26,8 +26,8 @@ require_once ("operation.php");
     <div class="container text-center">
          <!--Navigation -->
      <div style="margin: 30px; margin-top: 50px;">  <center> 
- <h1 >   Data Cloud Portal </h1> 
-      <h3> A Financial Services Portal Hosted on Heroku  <h3> 
+ <h1 >   Data Cloud Demo Portal </h1> 
+      <h3> A Demo Portal Hosted on Heroku  <h3> 
       <img src="wide-characters.jpg"> 
       </div>  </center>
      <center> <div style="margin: 30px; margin-top: 20px;"> 
