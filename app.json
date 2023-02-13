@@ -5,8 +5,7 @@
   "logo": "",
   "keywords": ["php", "crud", "mysql"],
     "addons": [
-    "jawsdb",
-    "cloudamqp"
+    "jawsdb"
   ],
   "buildpacks": [
     {
