@@ -1,13 +1,12 @@
-# finscabin
+# DataCloudPortal
 
-<a target="_blank" href="https://heroku.com/deploy?template=https://github.com/lightningexperience/finscabin">
+<a target="_blank" href="https://heroku.com/deploy?template=https://github.com/innovationworkshops/datacloudportal">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
 With one-click deployment  using the Heroku Button, you accomplished the following:
 
     * Installed an instance of a MySQL database (JawsDB MySQL)
-    * Installed an event broker (CloudAMQP, which is a hosted RabbitMQ server). You also created a queue for containing your event payload in the RabbitMQ instance.
     * Created two tables in MySQL schema (Customers & Leads tables)
     * Deployed a pre-written PHP CRUD application 
     * Configured your PHP CRUD application to connect to the newly installed MySQL database
