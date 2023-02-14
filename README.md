@@ -22,7 +22,7 @@ When you sign in to your Heroku instance, you can navigate to “https://dashboa
 * I now have a Data Lake Object in which the data incoming from MySQL database table will land.
 * Created a custom Data Model Object
 * Created a data mapping from the Data Lake Object to my  Data Model Object
-* Defined the MuleSoft Flow using Mule Cloud Designer (The JAR file is available in the resources directory of this repository). 
+* Defined the MuleSoft Flow using Mule Anypoint Studio (The JAR file is available in the resources directory of this repository). 
 * To authenticate Mule Connector with CDP you need to define a Connected App in CDP  - this connected app then will have the Consumer Key and Consumer Secret that you can use in Mule.
 
 The following illustrations explain the steps for loading data into CDP with MuleSoft CDP Connector. I have used the streaming feature of the ingestion API. The same Mule Connector can be leveraged for both batch as well as streaming capabilities of the API.
