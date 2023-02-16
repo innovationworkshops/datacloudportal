@@ -31,7 +31,7 @@ The following illustrations explain the steps for loading data into CDP with Mul
 <p> &nbsp; </p>
 <img src="/resources/screens.jpg">
 
-Additonal notes on my blog: <a href="https://www.appcloud101.com/streaming-data-with-salesforce-data-cloud-ingestion-api-and-mulesoft/" target=""_blank>  Streaming Data with Salesforce Data Cloud Ingestion API and MuleSoft: AppCloud101.com</a>
+Additonal notes on my blog: <a href="https://www.appcloud101.com/streaming-data-with-salesforce-data-cloud-ingestion-api-and-mulesoft/" target="_blank">   Streaming Data with Salesforce Data Cloud Ingestion API and MuleSoft</a>
 
 ## Safe Harbor, Caution
 * This is not official Salesforce documentation. This is meant as a quick test/demo only. Not for production environments. Please use the official Salesforce & MuleSoft documentation for your project.
