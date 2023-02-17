@@ -17,8 +17,9 @@ When you sign in to your Heroku instance, you can navigate to “https://dashboa
 
 ## Loading Data into CDP Using Ingestion API (MySQL -> CDP)
 * Defined Ingestion API from CDP Setup
-* Created & uploaded a YAML file for the source database table (i.e., MySQL database on Heroku). The YAML file is available in the Resources directory of this repository.
-* Created a Data Stream  
+* Created & uploaded a YAML file for the source database table (i.e., MySQL database on Heroku). The YAML file is available in the Resources directory of this repository. 
+* The DLO in CDP created when I upload the YAML schema during the Ingestion API definition in Setup - the schema is essentially the schema (table definition) of the external database object,
+* Created a Data Stream  for this DLO
 * I now have a Data Lake Object in which the data incoming from MySQL database table will land.
 * Created a custom Data Model Object
 * Created a data mapping from the Data Lake Object to my  Data Model Object
