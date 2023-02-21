@@ -1,0 +1,14 @@
+openapi: 3.0.3
+components:
+  schemas:
+    afinslead:
+      type: object
+      properties:
+        email:
+          type: string
+        last_name:
+          type: string
+        id:
+          type: number
+        first_name:
+          type: string
